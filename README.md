@@ -1,0 +1,1 @@
+## PATTERN-TASK2 [![Build status](https://ci.appveyor.com/api/projects/status/fhesaqx2dbqqvwbl?svg=true)](https://ci.appveyor.com/project/Mari14460/patterns-task2)
